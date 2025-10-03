@@ -1,2 +1,2 @@
-# calvert_zhu_website
-Personal website (Calvert Zhu)
+# Calvert-Zhu
+Personal website / portfolio for me (Calvert Zhu)
